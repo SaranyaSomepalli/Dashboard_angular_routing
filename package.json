@@ -8,7 +8,9 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
-  },
+  }, 
+  
+  asd
   "private": true,
   "dependencies": {
     "@angular/animations": "~11.1.2",
